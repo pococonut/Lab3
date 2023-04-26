@@ -1,0 +1,5 @@
+﻿  2Лаб3_3.cpp
+C:\Users\PoPo\Desktop\Техпрог\2Лаб3_3\2Лаб3_3.cpp(178,28): warning C4305: аргумент: усечение из "double" в "const std::complex<float>::_Ty"
+C:\Users\PoPo\Desktop\Техпрог\2Лаб3_3\2Лаб3_3.cpp(200,30): warning C4244: аргумент: преобразование "int" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\PoPo\Desktop\Техпрог\2Лаб3_3\2Лаб3_3.cpp(148,26): warning C4101: B: неиспользованная локальная переменная
+  2Лаб3_3.vcxproj -> C:\Users\PoPo\Desktop\Техпрог\2Лаб3_3\Debug\2Лаб3_3.exe
